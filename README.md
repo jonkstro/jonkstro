@@ -1,12 +1,12 @@
 ## :wave: Oi, eu sou o Jonas. 
  Vim até aqui mostrar o que venho produzindo no meu tempo livre :blush:
-<div align="center"> 
+<div text-align="justify"> 
  Sou formado em análise e desenvolvimento de sistemas e estudo engenharia elétrica.
 * Atualmente trabalhando como técnico em eletrotécnica;
 * Estudando Data Science & Python;
 * Hobby: Estudar cyber segurança e automação/robótica 
 </div>
-
+<br><br><br>
 <div align="center">
   <a href="https://github.com/jonkstro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonkstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
