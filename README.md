@@ -2,7 +2,7 @@
  Vim até aqui mostrar o que venho produzindo no meu tempo livre :blush:
 
  Sou formado em análise e desenvolvimento de sistemas e estudo engenharia elétrica.
-* Atualmente trabalhando como técnico em eletrotécnica;
+* Atualmente trabalhando como analista funcional de SAP - CRM;
 * Estudando Data Science & Python/Django;
 * Hobby: Estudar cyber segurança e automação/robótica 
 <br><br><br>
@@ -53,7 +53,6 @@
 ## Contato:
 
 <div> 
-  <a href="https://www.instagram.com/jonascastro.io/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-castro-713542b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jonkstro/jonkstro/blob/output/github-contribution-grid-snake.svg)
