@@ -2,9 +2,9 @@
  Vim até aqui mostrar o que venho produzindo no meu tempo livre :blush:
 
  Sou formado em Análise e Desenvolvimento de Sistemas, estudo Engenharia Elétrica, e estou fazendo especialização em Programação para Dispositivos Móveis (React Native / Flutter).
- <br/>
- Sigo estuando para conseguir unir os meus dois campos de experiência na criação de soluções (Web/Mobile/IoT) que possam melhorar a forma que fazemos uso dos nossos recursos energéticos no nosso dia-a-dia.
-<br/>
+ <br/><br/>
+ Sigo estudando para conseguir unir os meus dois campos de experiência na criação de soluções (Web/Mobile/IoT) que possam melhorar a forma que fazemos uso dos nossos recursos energéticos no dia a dia.
+<br/><br/>
 Atualmente estou trabalhando como analista funcional de SAP - CRM.
 
 <br><br><br>
