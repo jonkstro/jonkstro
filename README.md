@@ -73,8 +73,6 @@ If you are looking for interesting programming and electrical engineering projec
 <div> 
   <a href="https://www.linkedin.com/in/jonas-castro-713542b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jonkstro/jonkstro/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
