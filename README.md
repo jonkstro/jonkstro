@@ -10,12 +10,7 @@ Acredito que a sustentabilidade é um valor fundamental, e é por isso que busco
 
 Se você estiver procurando por projetos interessantes em programação e engenharia elétrica que buscam um impacto positivo, dê uma olhada no meu perfil do GitHub! 😊
 
-<br><br><br>
-<div align="center">
-  <a href="https://github.com/jonkstro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonkstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+
  
  ### Tecnologias que mais utilizo:
 
