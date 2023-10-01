@@ -1,27 +1,14 @@
 # Oi eu sou Jonas! 👋
 
-Atualmente, estou cursando o sétimo período de graduação em **Engenharia Elétrica** e o primeiro período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em Análise e Desenvolvimento de Sistemas (ADS).
+Atualmente, estou cursando o oitavo período de graduação em **Engenharia Elétrica** e o segundo período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em Análise e Desenvolvimento de Sistemas (ADS).
 
 Por seis anos, trabalhei como técnico de distribuição de energia na empresa Equatorial Energia, e atualmente, estou trabalhando como analista de SAP CRM na Accenture.
 
-No meu GitHub, você encontrará uma variedade de projetos em Python, para Django, análise de dados e webscrapping, React JS para web e C++ para Arduíno e ESP8266.
+No meu GitHub, você encontrará uma variedade de projetos Django, React JS, Spring boot, Flutter e C++ para Arduíno e ESP8266.
 
 Acredito que a sustentabilidade é um valor fundamental, e é por isso que busco aplicar os meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis. ESG é um tópico que me interessa muito, e estou sempre buscando maneiras de integrar a responsabilidade social, ambiental e de governança em meus projetos.
 
 Se você estiver procurando por projetos interessantes em programação e engenharia elétrica que buscam um impacto positivo, dê uma olhada no meu perfil do GitHub! 😊
-
-[English]
-# Hi, I'm Jonas!👋
-
-I am an electrical engineer, systems analyst, and programmer who seeks to unite my two fields of experience in favor of sustainability. Currently, I am in my seventh semester of electrical engineering and my first semester of specialization in mobile devices programming. In addition, I have a degree in systems analysis and development.
-
-For six years, I worked as a distribution technician at group Equatorial Energia, and currently, I work as an SAP CRM analyst at Accenture.
-
-On my GitHub, you will find a variety of projects in Python for Django, data analysis, and webscraping, React JS for the web, and C++ for Arduino and ESP8266.
-
-I believe that sustainability is a fundamental value, and that is why I seek to apply my knowledge in electrical engineering and programming to create sustainable solutions. ESG is a topic that interests me a lot, and I am always looking for ways to integrate social, environmental, and governance responsibility into my projects.
-
-If you are looking for interesting programming and electrical engineering projects that aim for a positive impact, take a look at my GitHub profile!😊
 
 <br><br><br>
 <div align="center">
