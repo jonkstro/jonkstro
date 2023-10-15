@@ -47,7 +47,7 @@ Se você estiver procurando por projetos interessantes em programação e engenh
 
    
 <div style="margin-top: 10px;">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&langs_count=8)/>
+  <img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&langs_count=8"/>
 </div>
 
 
