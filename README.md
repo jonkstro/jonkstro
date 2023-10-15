@@ -45,7 +45,7 @@ Se você estiver procurando por projetos interessantes em programação e engenh
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">  
 
-   
+   <br></br>
 <div style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&langs_count=20&theme=dark"/>
 </div>
