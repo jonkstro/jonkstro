@@ -44,8 +44,11 @@ Se você estiver procurando por projetos interessantes em programação e engenh
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact)](https://github.com/jonkstro)
+
+   
+<div style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact" alt="Top Languages" />
+</div>
 
 </div>
 
