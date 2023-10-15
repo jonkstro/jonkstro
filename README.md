@@ -47,6 +47,8 @@ Se você estiver procurando por projetos interessantes em programação e engenh
   
 
 </div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUÁRIO&layout=compact)
+
   
 <!---
 jonkstro/jonkstro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
