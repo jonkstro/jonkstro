@@ -48,7 +48,7 @@ Se você estiver procurando por projetos interessantes em programação e engenh
 
 </div>
 <div>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact)](https://github.com/jonkstro)
 </div>
 
   
