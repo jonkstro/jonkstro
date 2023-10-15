@@ -46,7 +46,7 @@ Se você estiver procurando por projetos interessantes em programação e engenh
   <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">  
 
    
-<div style="margin-top: 10px;">
+<div style="margin-top: 1000px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&layout=compact" alt="Top Languages" />
 </div>
 
