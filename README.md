@@ -48,7 +48,7 @@ Se você estiver procurando por projetos interessantes em programação e engenh
    
 <div style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&langs_count=8"/>
- <iframe width="600" height="600" src="https://wakatime.com/badge/user/jonkstro?layout=compact&theme=dark" title="Wakatime stats"></iframe>
+ <img width="600" height="600" src="https://wakatime.com/badge/user/jonkstro?layout=compact&theme=dark" title="Wakatime stats"></iframe>
 
 </div>
 
