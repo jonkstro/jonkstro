@@ -1,12 +1,12 @@
 # Oi eu sou Jonas! 👋
 
-Atualmente, estou cursando o oitavo período de graduação em **Engenharia Elétrica** e o segundo período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em Análise e Desenvolvimento de Sistemas (ADS).
+Atualmente estou cursando o segundo período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Por seis anos, trabalhei como técnico de distribuição de energia na empresa Equatorial Energia, e atualmente, estou trabalhando como analista de SAP CRM na Accenture.
+Por seis anos, trabalhei como técnico de distribuição de energia na empresa Equatorial Energia, e desde 01/2023 estou trabalhando como analista de SAP CRM na Accenture.
 
 No meu GitHub, você encontrará uma variedade de projetos Django, React JS, Spring boot, Flutter e C++ para Arduíno e ESP8266.
 
-Acredito que a sustentabilidade é um valor fundamental, e é por isso que busco aplicar os meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis. ESG é um tópico que me interessa muito, e estou sempre buscando maneiras de integrar a responsabilidade social, ambiental e de governança em meus projetos.
+Acredito que a sustentabilidade é um valor fundamental, e é por isso que busco aplicar os meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis.
 
 Se você estiver procurando por projetos interessantes em programação e engenharia elétrica que buscam um impacto positivo, dê uma olhada no meu perfil do GitHub! 😊
 
