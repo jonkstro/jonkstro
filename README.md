@@ -1,14 +1,58 @@
 # Oi eu sou Jonas! 👋
 
-Atualmente estou cursando o segundo período de **Especialização em Programação para Dispositivos Móveis**. Além disso, sou formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
+### Formação Acadêmica 🎓
 
-Por seis anos, trabalhei como técnico de distribuição de energia na empresa Equatorial Energia, e desde 01/2023 estou trabalhando como analista de SAP CRM na Accenture.
+- **Especialização em Programação para Dispositivos Móveis** (Em andamento, 02/03) - [IFPI Parnaíba]
+- **Análise e Desenvolvimento de Sistemas (ADS)** - Formado em [2021, UNICESUMAR Parnaíba]
 
-No meu GitHub, você encontrará uma variedade de projetos Django, React JS, Spring boot, Flutter e C++ para Arduíno e ESP8266.
+### Experiência Profissional 💼
 
-Acredito que a sustentabilidade é um valor fundamental, e é por isso que busco aplicar os meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis.
+- **Analista SAP CRM/CCS** na Accenture *(Desde 01/2023)*
+  - Realização de melhorias (OD) no sistema SAP CRM para empresas de utilities.
+  - Implementações do rollout do SAP S/4 Hana.
 
-Se você estiver procurando por projetos interessantes em programação e engenharia elétrica que buscam um impacto positivo, dê uma olhada no meu perfil do GitHub! 😊
+- **Técnico de Distribuição Sr.** na Equatorial Energia *(07/2016 - 01/2023)*
+  - Controle do plano de manutenção de Alta Tensão (Subestação e Linhas de Distribuição) utilizando análise de dados (BI, SQL) e ferramentas de automação com Python/SAP Scripts.
+  - Controle da execução do custeio de Limpeza de Faixa e vegetação (RD/AT) por meio de análise de alimentadores e indicadores de continuidade.
+  - Controle do plano de prevenção contra salinidade de AT e RD (Lavagem de alimentadores e subestações) com mapeamento de áreas de impacto.
+
+### Projetos no GitHub 💻
+
+- Apaixonado por sustentabilidade, aplico meus conhecimentos em engenharia elétrica e desenvolvimento de sistemas para criar soluções sustentáveis.
+- Meu GitHub apresenta uma variedade de projetos em Django, React JS, Spring Boot, Flutter, C++, e Arduino/ESP8266.
+
+### Habilidades e Atividades 🔧
+
+**Técnico de Distribuição:**
+- Controle do plano de manutenção de Alta Tensão com análise de dados (BI, SQL) e automação com Python/SAP Scripts.
+- Controle da execução do custeio de Limpeza de Faixa e vegetação (RD/AT) por meio de análise de alimentadores e indicadores de continuidade.
+- Controle do plano de prevenção contra salinidade de AT e RD (Lavagem de alimentadores e subestações) com mapeamento de áreas de impacto.
+
+**Analista de SAP CRM:**
+- Realização de melhorias (OD) no sistema SAP CRM para empresas de utilities.
+- Linguagem de programação backend ABAP.
+- Análise e Levantamento de Requisitos.
+- Metodologia ágil com utilização de Software JIRA.
+- Implementações do rollout do SAP S/4 Hana.
+
+### Interesses e Valores 🌱
+
+- Acredito que a sustentabilidade é fundamental, e busco aplicar meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis.
+- Se você estiver procurando por projetos interessantes em programação e engenharia elétrica com um impacto positivo, dê uma olhada no meu perfil do [GitHub](https://github.com/jonkstro)! 😊
+
+### Alguns projetíneos:
+- [**AssocSys**](https://assocsys.vercel.app/): Um sistema para gerenciamento de associações, trazendo ordem e eficiência para organizações. [Spring / NextJS]
+
+- [**EnergiApp**](https://energiapp.vercel.app/): Uma aplicação dedicada a otimizar e monitorar o consumo de energia, promovendo a eficiência energética. [Spring / ReactJS]
+
+- [**Ignite DtMoney**](https://ignite-dtmoney-mauve.vercel.app/): Uma aplicação financeira desenvolvida durante o Ignite, proporcionando controle e gestão das suas finanças. [ReactJS]
+
+- [**Comissionamento**](https://jonkstro.github.io/comissionamento/): Informações detalhadas sobre comissionamento de equipamentos de subestação, desenvolvido em prol de facilitar a gestão dos comissionamentos realizados nas subestações da regional norte de Parnaíba-PI. [HTML/CSS/JS]
+
+- [**Mini Portfólio**](https://jonkstro.github.io/mini-portifolio/): Um mini portfólio online. [HTML/CSS/JS]
+
+- [**Quadro Acidente**](https://jonkstro.github.io/quadro-acidente/): Mini plataforma de gestão de acidentes de trabalho que ocorrem em um órgão público, promovendo a segurança no trabalho. [DJANGO - TODO: Refazer em Spring / NextJS]
+
 
 
  
