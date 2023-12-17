@@ -19,7 +19,7 @@
 ### Projetos no GitHub 💻
 
 - Apaixonado por sustentabilidade, aplico meus conhecimentos em engenharia elétrica e desenvolvimento de sistemas para criar soluções sustentáveis.
-- Meu GitHub apresenta uma variedade de projetos em Django, React JS, Spring Boot, Flutter, C++, e Arduino/ESP8266.
+- Meu GitHub apresenta uma variedade de projetos em Django, React JS, Spring Boot, Flutter e C++ para Arduino/ESP8266.
 
 ### Habilidades e Atividades 🔧
 
@@ -40,7 +40,7 @@
 - Acredito que a sustentabilidade é fundamental, e busco aplicar meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis.
 - Se você estiver procurando por projetos interessantes em programação e engenharia elétrica com um impacto positivo, dê uma olhada no meu perfil do [GitHub](https://github.com/jonkstro)! 😊
 
-### Alguns projetíneos:
+### Alguns projetos:
 - [**AssocSys**](https://assocsys.vercel.app/): Um sistema para gerenciamento de associações, trazendo ordem e eficiência para organizações. [Spring / NextJS]
 
 - [**EnergiApp**](https://energiapp.vercel.app/): Uma aplicação dedicada a otimizar e monitorar o consumo de energia, promovendo a eficiência energética. [Spring / ReactJS]
