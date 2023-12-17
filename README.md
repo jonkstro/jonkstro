@@ -4,6 +4,9 @@
 
 - **Especialização em Programação para Dispositivos Móveis** (Em andamento, 02/03) - [IFPI Parnaíba]
 - **Análise e Desenvolvimento de Sistemas (ADS)** - Formado em [2021, UNICESUMAR Parnaíba]
+- **Engenharia Elétrica** (Pausado, 08/10) - [UNINASSAU]
+- **Técnico em Eletrotécnica** - Formado em [2016, IFPI Parnaíba]
+
 
 ### Experiência Profissional 💼
 
