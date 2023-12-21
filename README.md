@@ -39,8 +39,8 @@
 
 ### Interesses e Valores 🌱
 
-- Acredito que a sustentabilidade é fundamental, e busco aplicar meus conhecimentos em engenharia elétrica e programação para criar soluções sustentáveis.
-- Se você estiver procurando por projetos interessantes em programação e engenharia elétrica com um impacto positivo, dê uma olhada no meu perfil do [GitHub](https://github.com/jonkstro)! 😊
+- Acredito que a sustentabilidade é fundamental, e busco aplicar meus conhecimentos em elétrica e programação para criar soluções sustentáveis.
+- Se você estiver procurando por projetos interessantes em programação e engenharia elétrica, dê uma olhada no meu perfil do [GitHub](https://github.com/jonkstro)! 😊
 
 ### Alguns projetos:
 - [**AssocSys**](https://assocsys.vercel.app/): Um sistema para gerenciamento de associações, trazendo ordem e eficiência para organizações. [Spring / NextJS]
@@ -59,45 +59,6 @@
 
 
 
-
- 
-### Tecnologias que mais utilizo:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> 
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Jonas-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">  
-</div>
-<br></br>
-<div style="width: 100%; text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonkstro&langs_count=20&theme=dark"/>
-</div>
 
 
 
