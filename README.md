@@ -2,19 +2,18 @@
 
 ### Formação Acadêmica 🎓
 
-- **Especialização em Programação para Dispositivos Móveis** (Em andamento, 02/03) - [IFPI Parnaíba]
-- **Análise e Desenvolvimento de Sistemas (ADS)** - Formado em [2021, UNICESUMAR Parnaíba]
-- **Engenharia Elétrica** (Pausado, 08/10) - [UNINASSAU]
-- **Técnico em Eletrotécnica** - Formado em [2016, IFPI Parnaíba]
+- **Especialização em Programação para Dispositivos Móveis** (Em andamento, 02/03) - IFPI Parnaíba
+- **Análise e Desenvolvimento de Sistemas (ADS)** - Formado em 2021, UNICESUMAR Parnaíba
+- **Técnico em Eletrotécnica** - Formado em 2016, IFPI Parnaíba
 
 
 ### Experiência Profissional 💼
 
-- **Analista SAP CRM/CCS** na Accenture *(Desde 01/2023)*
+- **Analista SAP CRM/CCS** na Accenture (Desde 01/2023)
   - Realização de melhorias (OD) no sistema SAP CRM para empresas de utilities.
   - Implementações do rollout do SAP S/4 Hana.
 
-- **Técnico de Distribuição Sr.** na Equatorial Energia *(07/2016 - 01/2023)*
+- **Técnico de Distribuição Sr.** na Equatorial Energia (07/2016 - 01/2023)
   - Controle do plano de manutenção de Alta Tensão (Subestação e Linhas de Distribuição) utilizando análise de dados (BI, SQL) e ferramentas de automação com Python/SAP Scripts.
   - Controle da execução do custeio de Limpeza de Faixa e vegetação (RD/AT) por meio de análise de alimentadores e indicadores de continuidade.
   - Controle do plano de prevenção contra salinidade de AT e RD (Lavagem de alimentadores e subestações) com mapeamento de áreas de impacto.
@@ -57,6 +56,7 @@
 - [**Quadro Acidente**](https://jonkstro.github.io/quadro-acidente/): Mini plataforma de gestão de acidentes de trabalho que ocorrem em um órgão público, promovendo a segurança no trabalho. [DJANGO - TODO: Refazer em Spring / NextJS]
   
 - Em construção: [**IluminaPHB**](https://github.com/jonkstro/iluminaphb-mobile): Aplicativo para gestão de solicitações de iluminação pública municipal. [Spring / Flutter]
+
 
 
 
