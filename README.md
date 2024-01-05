@@ -53,11 +53,11 @@
 
 - [**Mini Portfólio**](https://jonkstro.github.io/mini-portifolio/): Um mini portfólio online. [HTML/CSS/JS]
 
-- [**Quadro Acidente**](https://jonkstro.github.io/quadro-acidente/): Mini plataforma de gestão de acidentes de trabalho que ocorrem em um órgão público, promovendo a segurança no trabalho. [DJANGO - TODO: Refazer em Spring / NextJS]
+- [**Quadro Acidente**](https://jonkstro.github.io/quadro-acidente/): Mini plataforma de gestão de acidentes de trabalho que ocorrem em um órgão público, promovendo a segurança no trabalho. [DJANGO]
   
-- Em construção: [**IluminaPHB**](https://github.com/jonkstro/iluminaphb-mobile): Aplicativo para gestão de solicitações de iluminação pública municipal. [Spring / Flutter]
+- Em construção: [**IluminaPHB**](https://github.com/jonkstro/iluminaphb-mobile): Aplicativo para gestão de solicitações de iluminação pública municipal. [Flutter / Firebase]
 
-
+- Em construção: [**Bazar mobile**](https://github.com/jonkstro/bazar-mobile) : Aplicativo de bazar online. [Spring (https://github.com/jonkstro/bazar-backend) / Flutter]
 
 
 
