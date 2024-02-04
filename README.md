@@ -54,6 +54,8 @@
 - [**Mini Portfólio**](https://jonkstro.github.io/mini-portifolio/): Um mini portfólio online. [HTML/CSS/JS]
 
 - [**Quadro Acidente**](https://jonkstro.github.io/quadro-acidente/): Mini plataforma de gestão de acidentes de trabalho que ocorrem em um órgão público, promovendo a segurança no trabalho. [DJANGO]
+
+- [**ChatApp**](https://github.com/jonkstro/flutter-chatapp): ChatApp desenvolvido com flutter e firebase como backend, com uso de storage de imagens, firestore, notificações e push notifications
   
 - Em construção: [**IluminaPHB**](https://github.com/jonkstro/iluminaphb-mobile): Aplicativo para gestão de solicitações de iluminação pública municipal. [Flutter / Firebase]
 
