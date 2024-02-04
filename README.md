@@ -1,11 +1,8 @@
 # Oi eu sou Jonas! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonkstro" alt="jonkstro" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonkstro&show_icons=true&locale=en&layout=compact" alt="jonkstro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonkstro&show_icons=true&locale=pt-br&layout=compact" alt="jonkstro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonkstro&show_icons=true&locale=en" alt="jonkstro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonkstro&" alt="jonkstro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonkstro&show_icons=true&locale=pt-br" alt="jonkstro" /></p>
 
 ### Formação Acadêmica 🎓
 
