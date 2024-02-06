@@ -65,7 +65,7 @@
   
 - Em construção: [**IluminaPHB**](https://github.com/jonkstro/iluminaphb-mobile): Aplicativo para gestão de solicitações de iluminação pública municipal. [Flutter / Firebase]
 
-- Em construção: [**Bazar mobile**](https://github.com/jonkstro/bazar-mobile) : Aplicativo de bazar online. [[Spring](https://github.com/jonkstro/bazar-backend) / Flutter]
+- Em construção: [**Bazar mobile**](https://github.com/jonkstro/bazar-mobile) : Aplicativo de bazar online. [[Spring](https://github.com/jonkstro/bazar-backend) / Flutter(https://github.com/jonkstro/bazar-mobile)]
 
 
 
