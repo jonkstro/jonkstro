@@ -6,7 +6,7 @@
 
 ### Formação Acadêmica 🎓
 
-- **Especialização em Programação para Dispositivos Móveis** (Em andamento, 02/03) - IFPI Parnaíba
+- **Especialização em Programação para Dispositivos Móveis** Formado em 2024, IFPI Parnaíba
 - **Análise e Desenvolvimento de Sistemas (ADS)** - Formado em 2021, UNICESUMAR Parnaíba
 - **Engenharia Elétrica** (Trancada, 08/10) - UNINASSAU Parnaíba 
 - **Técnico em Eletrotécnica** - Formado em 2016, IFPI Parnaíba
